@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pranav Gorwade</h1>
 <h3 align="center">A passionate web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs/blob/main/code.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="[https://github.com/rudrabarad/Gifs/blob/main/code.gif?raw=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1-4K1X18vE22wJUHsfe3EU&ust=1732412079057000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDhu4io8YkDFQAAAAAdAAAAABAS)">
 
 
 
