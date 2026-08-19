@@ -1,6 +1,5 @@
-```html
 <!-- ========================= -->
-<!--      PROFILE HEADER       -->
+<!--       PROFILE HEADER      -->
 <!-- ========================= -->
 
 <h1 align="center">Hi 👋, I'm Pranav Gorwade</h1>
@@ -17,10 +16,6 @@
 
 ---
 
-<!-- ========================= -->
-<!--        ABOUT ME           -->
-<!-- ========================= -->
-
 ## 👨‍💻 About Me
 
 <img align="right" width="350" src="https://cd.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation"/>
@@ -35,152 +30,140 @@
 
 ---
 
-<!-- ========================= -->
-<!--       CONNECT WITH ME     -->
-<!-- ========================= -->
-
 ## 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://x.com/GorwadePranav">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-alt="X / Twitter"
-height="35"
-width="45"/>
+<a href="https://x.com/GorwadePranav" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+       alt="X / Twitter"
+       width="40"
+       height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pranav-gorwade-082883304/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="35"
-width="45"/>
+<a href="https://www.linkedin.com/in/pranav-gorwade-082883304/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn"
+       width="40"
+       height="40"/>
 </a>
 
-<a href="https://www.facebook.com/pavan.gorwade.14">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-alt="Facebook"
-height="35"
-width="45"/>
+<a href="https://www.facebook.com/pavan.gorwade.14" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+       alt="Facebook"
+       width="40"
+       height="40"/>
 </a>
 
-<a href="https://www.instagram.com/pgorwade">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="Instagram"
-height="35"
-width="45"/>
+<a href="https://www.instagram.com/pgorwade" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="Instagram"
+       width="40"
+       height="40"/>
 </a>
 
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--      TECH STACK            -->
-<!-- ========================= -->
-
 ## 🛠️ Languages & Tools
 
-### Languages
+### 💻 Languages
 
 <p align="left">
 
 <a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-width="45"
-height="45"
-alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+       width="45"
+       height="45"
+       alt="C"/>
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-width="45"
-height="45"
-alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+       width="45"
+       height="45"
+       alt="C++"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-width="45"
-height="45"
-alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+       width="45"
+       height="45"
+       alt="HTML5"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-width="45"
-height="45"
-alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+       width="45"
+       height="45"
+       alt="CSS3"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-width="45"
-height="45"
-alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+       width="45"
+       height="45"
+       alt="JavaScript"/>
 </a>
 
 </p>
 
-### Frameworks & Technologies
+### ⚛️ Frameworks & Technologies
 
 <p align="left">
 
 <a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-width="45"
-height="45"
-alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+       width="45"
+       height="45"
+       alt="React"/>
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-width="45"
-height="45"
-alt="Tailwind CSS"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+       width="45"
+       height="45"
+       alt="Tailwind CSS"/>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-width="45"
-height="45"
-alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+       width="45"
+       height="45"
+       alt="Firebase"/>
 </a>
 
 <a href="https://appwrite.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
-width="45"
-height="45"
-alt="Appwrite"/>
+  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
+       width="45"
+       height="45"
+       alt="Appwrite"/>
 </a>
 
 </p>
 
-### Design & Development Tools
+### 🎨 Design & Development Tools
 
 <p align="left">
 
 <a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-width="45"
-height="45"
-alt="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+       width="45"
+       height="45"
+       alt="Figma"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-width="45"
-height="45"
-alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+       width="45"
+       height="45"
+       alt="Linux"/>
 </a>
 
 </p>
 
 ---
-
-<!-- ========================= -->
-<!--        GITHUB STATS        -->
-<!-- ========================= -->
 
 ## 📊 GitHub Statistics
 
@@ -205,36 +188,29 @@ alt="Linux"/>
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Pranavgorwade&hide_border=true"
-    alt="Pranav's GitHub Streak"
+    alt="Pranav's GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--        ACTIVITY            -->
-<!-- ========================= -->
-
-## 🚀 Developer Profile
+## 🚀 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavgorwade&hide_border=true"
-    alt="GitHub Activity Graph"
+    alt="Pranav's GitHub Activity Graph"
   />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--          FOOTER            -->
-<!-- ========================= -->
+## 👋 Thanks for Visiting
 
 <p align="center">
-  <strong>Thanks for visiting my profile! 👨‍💻</strong>
+  <strong>Thanks for visiting my GitHub profile! 👨‍💻</strong>
 </p>
 
 <p align="center">
   <i>Keep learning. Keep building. Keep growing.</i>
 </p>
-```
