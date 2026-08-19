@@ -1,31 +1,240 @@
-<h1 align="center">Hi, I'm Pranav Gorwade</h1>
-<h3 align="center">A passionate web Developer from India</h3>
-<img align="right" alt="Coding" width="352" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+```html
+<!-- ========================= -->
+<!--      PROFILE HEADER       -->
+<!-- ========================= -->
 
+<h1 align="center">Hi 👋, I'm Pranav Gorwade</h1>
 
+<h3 align="center">
+  A passionate Web Developer from India 🇮🇳
+</h3>
 
-
-- 🔭 I’m currently working on **Backend development** 
-
-
-
-- 📫 How to reach me **gorwadepranav4@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/GorwadePranav?t=Wv3_P0iGrlWfm_nFWjdJmw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan_nath_60" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pranav-gorwade-082883304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan nath" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pavan.gorwade.14?mibextid=rS40aB7S9Ucbxw6v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karan nath" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pgorwade?igsh=MThxdjludDducnl6ZQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_nath_60" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Pranavgorwade">
+    <img src="https://komarev.com/ghpvc/?username=Pranavgorwade&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranavgorwade&show_icons=true&locale=en&layout=compact" alt="Pranavgorwade" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavgorwade&show_icons=true&locale=en" alt="Pranavgorwade" /></p>
+<!-- ========================= -->
+<!--        ABOUT ME           -->
+<!-- ========================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavgorwade&" alt="Pranavgorwade" /></p>
+## 👨‍💻 About Me
 
+<img align="right" width="350" src="https://cd.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pranavgorwade&label=Profile%20views&color=0e75b6&style=flat" alt="Pranavgorwade" /> </p>
+- 🔭 Currently working on **Backend Development**
+- 💻 Passionate about **Web Development**
+- 🌱 Continuously learning and improving my development skills
+- 📍 Based in **India**
+- 📫 Reach me at **gorwadepranav4@gmail.com**
+
+<br clear="right"/>
+
+---
+
+<!-- ========================= -->
+<!--       CONNECT WITH ME     -->
+<!-- ========================= -->
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://x.com/GorwadePranav">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+alt="X / Twitter"
+height="35"
+width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pranav-gorwade-082883304/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn"
+height="35"
+width="45"/>
+</a>
+
+<a href="https://www.facebook.com/pavan.gorwade.14">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+alt="Facebook"
+height="35"
+width="45"/>
+</a>
+
+<a href="https://www.instagram.com/pgorwade">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+alt="Instagram"
+height="35"
+width="45"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================= -->
+<!--      TECH STACK            -->
+<!-- ========================= -->
+
+## 🛠️ Languages & Tools
+
+### Languages
+
+<p align="left">
+
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+width="45"
+height="45"
+alt="C"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+width="45"
+height="45"
+alt="C++"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+width="45"
+height="45"
+alt="HTML5"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+width="45"
+height="45"
+alt="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+width="45"
+height="45"
+alt="JavaScript"/>
+</a>
+
+</p>
+
+### Frameworks & Technologies
+
+<p align="left">
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+width="45"
+height="45"
+alt="React"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+width="45"
+height="45"
+alt="Tailwind CSS"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+width="45"
+height="45"
+alt="Firebase"/>
+</a>
+
+<a href="https://appwrite.io/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
+width="45"
+height="45"
+alt="Appwrite"/>
+</a>
+
+</p>
+
+### Design & Development Tools
+
+<p align="left">
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+width="45"
+height="45"
+alt="Figma"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+width="45"
+height="45"
+alt="Linux"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================= -->
+<!--        GITHUB STATS        -->
+<!-- ========================= -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pranavgorwade&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Pranav's GitHub Statistics"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavgorwade&layout=compact&hide_border=true"
+    alt="Pranav's Top Languages"
+    height="180"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Pranavgorwade&hide_border=true"
+    alt="Pranav's GitHub Streak"
+  />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--        ACTIVITY            -->
+<!-- ========================= -->
+
+## 🚀 Developer Profile
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavgorwade&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--          FOOTER            -->
+<!-- ========================= -->
+
+<p align="center">
+  <strong>Thanks for visiting my profile! 👨‍💻</strong>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing.</i>
+</p>
+```
