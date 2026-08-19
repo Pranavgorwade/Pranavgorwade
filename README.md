@@ -1,27 +1,15 @@
-```html
-<!-- PROFILE HEADER -->
+```markdown
+# 👋 Hi, I'm Pranav Gorwade
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranav%20Gorwade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
+### 💻 A passionate Web Developer from India 🇮🇳
 
-<h1 align="center">Hi 👋, I'm Pranav Gorwade</h1>
-
-<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Web+Developer;Backend+Development+Enthusiast;Computer+Science+Student;Always+Learning+and+Building" alt="Typing Animation">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranavgorwade&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Pranavgorwade&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="280" src="https://cd.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation">
+![Coding](https://cd.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 
 - 🔭 Currently working on **Backend Development**
 - 💻 Passionate about **Web Development**
@@ -32,179 +20,88 @@
 - 📍 Based in **India**
 - 📫 Email: **gorwadepranav4@gmail.com**
 
-<br clear="all">
-
 ---
 
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td>🎓</td>
-    <td>
-      <strong>Bachelor of Computer Science</strong><br>
-      <strong>YOUR COLLEGE NAME</strong><br>
-      Visvesvaraya Technological University (VTU)<br>
-      Lateral Entry after Polytechnic Diploma
-    </td>
-  </tr>
-</table>
+### Bachelor of Computer Science
+
+**YOUR COLLEGE NAME**
+
+**Visvesvaraya Technological University (VTU)**
+
+- Computer Science
+- Lateral Entry after Polytechnic Diploma
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-
-<a href="https://x.com/GorwadePranav" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="X">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/pranav-gorwade-082883304/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/pavan.gorwade.14" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" alt="Facebook">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/pgorwade" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram">
-</a>
-
-</p>
+[![X](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://x.com/GorwadePranav)
+&nbsp;
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/pranav-gorwade-082883304/)
+&nbsp;
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/pavan.gorwade.14)
+&nbsp;
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/pgorwade)
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### 💻 Languages
+### Languages
 
-<p align="center">
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-width="30" height="30" alt="C" title="C">
+### Frameworks & Technologies
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-width="30" height="30" alt="C++" title="C++">
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02D65?style=flat-square&logo=appwrite&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-width="30" height="30" alt="HTML5" title="HTML5">
+### Tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-width="30" height="30" alt="CSS3" title="CSS3">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-width="30" height="30" alt="JavaScript" title="JavaScript">
-
-</p>
-
-### ⚛️ Frameworks & Technologies
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-width="30" height="30" alt="React" title="React">
-
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-width="30" height="30" alt="Tailwind CSS" title="Tailwind CSS">
-
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-width="30" height="30" alt="Firebase" title="Firebase">
-
-<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
-width="30" height="30" alt="Appwrite" title="Appwrite">
-
-</p>
-
-### 🎨 Tools
-
-<p align="center">
-
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-width="30" height="30" alt="Figma" title="Figma">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-width="30" height="30" alt="Linux" title="Linux">
-
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Currently Working On
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="380"
-  alt="Developer Coding">
-</p>
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<p align="center">
-  <strong>Backend Development • Web Development • Problem Solving • Learning</strong>
-</p>
+**Backend Development • Web Development • Problem Solving • Learning**
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavgorwade&show_icons=true&hide_border=true&rank_icon=github)
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Pranavgorwade&show_icons=true&hide_border=true&rank_icon=github"
-height="160"
-alt="GitHub Statistics">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavgorwade&layout=compact&hide_border=true"
-height="160"
-alt="Top Languages">
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavgorwade&layout=compact&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Contribution Streak
 
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Pranavgorwade&hide_border=true"
-alt="GitHub Contribution Streak">
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pranavgorwade&hide_border=true)
 
 ---
 
 ## 📈 GitHub Activity
 
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavgorwade&hide_border=true"
-width="95%"
-alt="GitHub Activity Graph">
-
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranavgorwade&hide_border=true)
 
 ---
 
 ## 👋 Thanks for Visiting
 
-<p align="center">
-  <strong>Thanks for visiting my GitHub profile! 👨‍💻</strong>
-</p>
+**Thanks for visiting my GitHub profile! 👨‍💻**
 
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%">
-</p>
+*Keep learning. Keep building. Keep growing.*
 ```
